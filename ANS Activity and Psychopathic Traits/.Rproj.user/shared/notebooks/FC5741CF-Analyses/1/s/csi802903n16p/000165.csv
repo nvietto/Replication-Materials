@@ -1,0 +1,2 @@
+"0",""
+"0","pcor.test(CDFSCT1$SRPIPMTotal, CDFSCT1$CDSCCombAuciSigaled, list(CDFSCT1$Female, CDFSCT1$White, CDFSCT1$Age), method = ""pearson"")"
