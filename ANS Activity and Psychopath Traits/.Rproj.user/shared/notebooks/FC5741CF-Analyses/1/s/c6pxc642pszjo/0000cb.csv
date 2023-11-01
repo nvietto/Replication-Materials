@@ -1,0 +1,4 @@
+"0",""
+"0","# Lev"
+"0",""
+"0","pcor.test(SSFSCT1$LevTotalScore, SSFSCT1$SSSCCombAUCi, list(SSFSCT1$Female, SSFSCT1$White, SSFSCT1$Age), method = ""pearson"")"

@@ -1,0 +1,8 @@
+"0",""
+"0",""
+"0",""
+"0","## Skin Conductance "
+"0",""
+"0","#SRP"
+"0",""
+"0","pcor.test(SSFSCT1$SRPTotalScore, SSFSCT1$SSSCCombAUCi, list(SSFSCT1$Female, SSFSCT1$White, SSFSCT1$Age),method = ""pearson"")"

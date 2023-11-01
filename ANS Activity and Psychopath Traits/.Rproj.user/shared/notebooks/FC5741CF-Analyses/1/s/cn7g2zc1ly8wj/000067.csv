@@ -1,0 +1,2 @@
+"0",""
+"0","pcor.test(FSFHRT1$LevPrimTotalScore, FSFHRT1$HRbaseline, list(FSFHRT1$Female, FSFHRT1$White, FSFHRT1$Age), method = ""spearman"")"

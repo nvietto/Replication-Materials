@@ -1,0 +1,4 @@
+"0",""
+"0","## Heart Rate "
+"0","#SRP"
+"0","pcor.test(FemaleSSHRT1$SRPTot, FemaleSSHRT1$SSHRCombAUCi, list(FemaleSSHRT1$White, FemaleSSHRT1$Age), method = ""pearson"")"

@@ -1,0 +1,4 @@
+"0",""
+"0","# ICU"
+"0",""
+"0","pcor.test(FemaleSSHRT1$ICUTot, FemaleSSHRT1$SSHRCombAUCi, list(FemaleSSHRT1$White, FemaleSSHRT1$Age), method = ""spearman"")"

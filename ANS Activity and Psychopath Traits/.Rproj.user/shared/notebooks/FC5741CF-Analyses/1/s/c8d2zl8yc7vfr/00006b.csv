@@ -1,0 +1,4 @@
+"0",""
+"0","# SSS "
+"0",""
+"0","pcor.test(FemaleHRbaseT1$SSSTot, FemaleHRbaseT1$HRbaseline, list(FemaleHRbaseT1$White, FemaleHRbaseT1$Age), method = ""pearson"")"
