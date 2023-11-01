@@ -1,7 +1,0 @@
-"0",""
-"0","pacman::p_load(tidyverse, janitor, ppcor, foreign, renv, ltm, pastecs)"
-"0",""
-"0","data <- read.spss(""AutonomicFinal042523.sav"", use.value.labels=TRUE, max.value.labels=Inf, to.data.frame=TRUE)"
-"0",""
-"0",""
-"0",""
