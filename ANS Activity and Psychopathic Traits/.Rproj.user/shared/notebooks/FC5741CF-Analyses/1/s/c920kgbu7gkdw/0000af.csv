@@ -1,4 +1,0 @@
-"0",""
-"0","# SSS "
-"0",""
-"0","pcor.test(FemaleSSHRT1$SSSTot, FemaleSSHRT1$SSHRCombAUCi, list(FemaleSSHRT1$White, FemaleSSHRT1$Age), method = ""pearson"")"
