@@ -2,7 +2,7 @@
 
 Authors: Nicholas Vietto , Todd A. Armstrong, Dakota Schroll, Sarah Al Falatah
 
-Submission history: 
+**Submission history:** 
 
 *Psychophysiology* - Submitted 11/01/23 - Decision (Rejected) 12/14/23
   - Reviewers made several useful suggestions and we are currently addressing those before the next submission (01/02/24)
